@@ -105,11 +105,12 @@ force force ace_goggles_showInThirdPerson = false;
 
 // ACE Hearing
 force force ace_hearing_autoAddEarplugsToUnits = true;
-ace_hearing_disableEarRinging = false;
+force force ace_hearing_disableEarRinging = true;
 force ace_hearing_earplugsVolume = 0.5;
-force force ace_hearing_enableCombatDeafness = false;
+force force ace_hearing_enableCombatDeafness = true;
 force force ace_hearing_enabledForZeusUnits = false;
 force ace_hearing_unconsciousnessVolume = 0.4;
+
 
 
 // ACE Interaction
