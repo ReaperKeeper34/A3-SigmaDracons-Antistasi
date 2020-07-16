@@ -19,7 +19,8 @@ mapX setObjectTexture [0,"pic.jpg"];
 
 [2,"Init finished",_fileName] call A3A_fnc_log;
 
-//Vic Flip Script
+
+//Vic Flipper
 
 if (!isDedicated) then {
  waitUntil {!isNull player && {time > 0}};

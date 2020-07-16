@@ -402,11 +402,11 @@ force acex_headless_transferLoadout = 0;
 force force acex_sitting_enable = true;
 
 // ACEX View Restriction
-force acex_viewrestriction_mode = 0;
-force acex_viewrestriction_modeSelectiveAir = 0;
-force acex_viewrestriction_modeSelectiveFoot = 0;
-force acex_viewrestriction_modeSelectiveLand = 0;
-force acex_viewrestriction_modeSelectiveSea = 0;
+acex_viewrestriction_mode = 0;
+acex_viewrestriction_modeSelectiveAir = 0;
+acex_viewrestriction_modeSelectiveFoot = 0;
+acex_viewrestriction_modeSelectiveLand = 0;
+acex_viewrestriction_modeSelectiveSea = 0;
 acex_viewrestriction_preserveView = false;
 
 // ACEX Volume
